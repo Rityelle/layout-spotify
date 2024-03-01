@@ -30,7 +30,7 @@ export function Main () {
             <strong>Wasting Ligth</strong>
 
             <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
-              <Play />
+              <Play fill="bg-black" />
             </button>
           </a>
           <a
@@ -47,7 +47,7 @@ export function Main () {
             <strong>Wasting Ligth</strong>
 
             <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
-              <Play />
+              <Play fill="bg-black" />
             </button>
           </a>
           <a
@@ -64,7 +64,7 @@ export function Main () {
             <strong>Wasting Ligth</strong>
 
             <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
-              <Play />
+              <Play fill="bg-black" />
             </button>
           </a>
           <a
@@ -81,7 +81,7 @@ export function Main () {
             <strong>Wasting Ligth</strong>
 
             <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
-              <Play />
+              <Play fill="bg-black" />
             </button>
           </a>
           <a
@@ -98,7 +98,7 @@ export function Main () {
             <strong>Wasting Ligth</strong>
 
             <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
-              <Play />
+              <Play fill="bg-black" />
             </button>
           </a>
           <a
@@ -115,7 +115,7 @@ export function Main () {
             <strong>Wasting Ligth</strong>
 
             <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
-              <Play />
+              <Play fill="bg-black" />
             </button>
           </a>
         </div>
